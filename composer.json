@@ -1,0 +1,24 @@
+{
+    "name": "balt-technologies/standards",
+    "description": "PHP Package with a bunch of enums for standards, eg. ISO countries, languages, http status code etc.",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Standards\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tobias Redmann",
+            "email": "tobias.redmann@balt.de"
+        }
+    ],
+    "require-dev": {
+        "laravel/pint": "^1.13"
+    },
+    "scripts": {
+        "pint": [
+            "./vendor/bin/pint"
+        ]
+    }
+}
