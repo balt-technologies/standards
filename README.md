@@ -9,4 +9,5 @@ composer require balt-technologies/standards
 
 ## Standards
 
-* MimeTypes
+* Mime Types (`\Standards\MimeTypes\MimeType`)
+* Http Response Status Codes (`\Standards\Http\StatusCode`)
