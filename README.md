@@ -11,3 +11,4 @@ composer require balt-technologies/standards
 
 * Mime Types (`\Standards\MimeTypes\MimeType`)
 * Http Response Status Codes (`\Standards\Http\StatusCode`)
+* Countries (ISO 3166-1 Alpha 2 and 3)
