@@ -1,6 +1,6 @@
 <?php
 
-namespace Standards\Countries\Iso_3166_1_Alpha_2;
+namespace Standards\Countries\ISO_3166_1_Alpha_2;
 
 enum Country: string
 {
